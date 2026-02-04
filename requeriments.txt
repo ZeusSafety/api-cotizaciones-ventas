@@ -1,0 +1,7 @@
+functions-framework==3.*
+pymysql==1.1.0
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+google-cloud-storage
+requests==2.*
